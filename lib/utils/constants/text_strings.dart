@@ -5,8 +5,10 @@ class AppTexts {
   static const String skip = "Skip";
   static const String done = "Done";
   static const String submit = "Submit";
-  static const String appName = "T-Store";
+  static const String appName = "Liquid-News";
   static const String tContinue = "Continue";
+
+  static const String welcome_title = "Your Gateway to the World's News";
 
   // -- OnBoarding Texts
   static const String onBoardingTitle1 = "Choose your product";
@@ -23,6 +25,7 @@ class AppTexts {
   // -- Authentication Forms
   static const String firstName = "First Name";
   static const String lastName = "Last Name";
+  static const String fullName = "Full Name";
   static const String email = "E-Mail";
   static const String password = "Password";
   static const String newPassword = "New Password";
